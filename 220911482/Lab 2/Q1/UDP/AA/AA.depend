@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1706074204 source:/home/student/Desktop/220911035_Lavanya/Lab 2/Q1/UDP/AA/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+
